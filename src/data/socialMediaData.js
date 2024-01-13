@@ -6,7 +6,7 @@ import {
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
 
 const whatsAppNumber = "+524434572570";
-const phoneNumber = "+524434572570";
+const phoneNumber = "+524433460830";
 const message = encodeURIComponent("Me interesa alguno de tus servicios");
 // socialMediaData.js
 const socialMediaData = [
